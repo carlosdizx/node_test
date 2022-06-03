@@ -14,5 +14,13 @@
     "prettier": "^2.6.2"
   },
   "devDependencies": {},
-  "description": ""
+  "description": "Explicaciones para aprender js y nodeJs",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carlosdizx/node_test.git"
+  },
+  "bugs": {
+    "url": "https://github.com/carlosdizx/node_test/issues"
+  },
+  "homepage": "https://github.com/carlosdizx/node_test#readme"
 }
